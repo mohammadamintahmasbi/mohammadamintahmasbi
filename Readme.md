@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Amin Tahmasbinia</h1>
 <h3 align="center">I am a programmer interested in web development, backend, machine learning, etc.</h3>
 
+- I work at Afarine Company. [Afarine](https://www.linkedin.com/company/afarine-ic/)
+
 - 📫 How to reach me **mat.chenari.computer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
