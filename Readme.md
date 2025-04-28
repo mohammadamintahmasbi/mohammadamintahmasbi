@@ -116,11 +116,9 @@ I'm a passionate programmer with expertise in web development, backend systems, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" title="Vim" />
 </div>
 
-#### Data Science & Testing
+#### Testing
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" title="NumPy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" title="Pandas" />
+  <img src="https://playwright.dev/python/img/playwright-logo.svg" height="40" alt="playwright logo" title="Playwright" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" title="Selenium" />
 </div>
