@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate programmer with expertise in web development, backend systems, and machine learning. Currently working at Afarine Company where I build robust and scalable solutions. I love tackling complex problems and continuously expanding my skill set.
+I'm a passionate programmer with expertise in web development, backend systems, and machine learning. Currently working at [Afarine](https://afarine.com/) Company where I build robust and scalable solutions. I love tackling complex problems and continuously expanding my skill set.
 
 ---
 
