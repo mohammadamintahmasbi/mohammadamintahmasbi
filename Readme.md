@@ -129,8 +129,8 @@ I'm a passionate programmer with expertise in web development, backend systems, 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=dark"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadamintahmasbi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadamintahmasbi&layout=compact)
 </p>
 
 ---
