@@ -126,22 +126,10 @@ I'm a passionate programmer with expertise in web development, backend systems, 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadamintahmasbi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadamintahmasbi&layout=compact&langs_count=8&theme=dark"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:mat.chenari.computer@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
