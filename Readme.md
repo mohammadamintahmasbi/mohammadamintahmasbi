@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Amin Tahmasbinia</h1>
-<h3 align="center">Full Stack Developer | Backend Specialist | Machine Learning Enthusiast</h3>
+<h3 align="center">Web Developer | Backend Specialist | Machine Learning Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/company/afarine-ic/">
