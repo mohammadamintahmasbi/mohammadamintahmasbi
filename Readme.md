@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Amin Tahmasbinia</h1>
-<h3 align="center">Web Developer | Backend Specialist | Machine Learning Enthusiast</h3>
+<h3 align="center">Web Developer | Backend Specialist </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/company/afarine-ic/">
@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate programmer with expertise in web development, backend systems, and machine learning. Currently working at [Afarine](https://afarine.com/) Company where I build robust and scalable solutions. I love tackling complex problems and continuously expanding my skill set.
+I'm a passionate programmer with expertise in web development, backend systems and Devops. Currently working at [Afarine](https://afarine.com/) Company where I build robust and scalable solutions. I love tackling complex problems and continuously expanding my skill set.
 
 ---
 
