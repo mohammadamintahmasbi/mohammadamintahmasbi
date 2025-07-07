@@ -24,7 +24,7 @@ I'm a passionate programmer with expertise in web development, backend systems a
   
 #### Programming Languages
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="20" alt="go" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go" title="Go"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" title="Java"/>
   <img width="12" />
