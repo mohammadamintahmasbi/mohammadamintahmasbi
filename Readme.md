@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Amin Tahmasbinia</h1>
 <h3 align="center">Web Developer | Backend Specialist </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/company/afarine-ic/">
-    <img src="https://img.shields.io/badge/-Afarine_Company-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
