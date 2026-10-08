@@ -5,16 +5,13 @@
   <a href="https://www.linkedin.com/company/afarine-ic/">
     <img src="https://img.shields.io/badge/-Afarine_Company-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:mat.chenari.computer@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate programmer with expertise in web development, backend systems and Devops. Currently working at [Afarine](https://afarine.com/) Company where I build robust and scalable solutions. I love tackling complex problems and continuously expanding my skill set.
+I'm a passionate programmer with expertise in web development, backend systems and Devops. I have work experience at Afarine Company. [Afarine](https://afarine.com/) Company where I built robust and scalable solutions. I love tackling complex problems and continuously expanding my skill set.
 
 ---
 
