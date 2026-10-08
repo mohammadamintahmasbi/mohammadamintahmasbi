@@ -115,12 +115,3 @@ I'm a passionate programmer with expertise in web development, backend systems a
 </div>
 </div>
 
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:mat.chenari.computer@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
